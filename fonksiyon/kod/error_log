@@ -1,0 +1,64 @@
+[29-Jan-2018 14:12:54 Europe/Moscow] PHP Warning:  include_once(../diller/tr.php): failed to open stream: No such file or directory in /home/u7451818/ticaretplus/sistem/cagir.php on line 19
+[29-Jan-2018 14:12:54 Europe/Moscow] PHP Warning:  include_once(): Failed opening '../diller/tr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u7451818/ticaretplus/sistem/cagir.php on line 19
+[29-Jan-2018 14:12:54 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on string in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 11
+[29-Jan-2018 14:13:58 Europe/Moscow] PHP Warning:  include_once(../diller/tr.php): failed to open stream: No such file or directory in /home/u7451818/ticaretplus/sistem/cagir.php on line 19
+[29-Jan-2018 14:13:58 Europe/Moscow] PHP Warning:  include_once(): Failed opening '../diller/tr.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u7451818/ticaretplus/sistem/cagir.php on line 19
+[29-Jan-2018 14:13:58 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on string in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 11
+[29-Jan-2018 14:13:59 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on string in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 12
+[29-Jan-2018 14:13:59 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on string in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 12
+[29-Jan-2018 14:14:00 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on string in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 12
+[29-Jan-2018 14:14:04 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on string in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 12
+[29-Jan-2018 14:14:04 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on string in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 12
+[29-Jan-2018 14:14:05 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on string in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 12
+[29-Jan-2018 14:14:05 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on string in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 12
+[29-Jan-2018 14:14:05 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on string in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 12
+[29-Jan-2018 14:14:37 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:37 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:38 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:38 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:45 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:45 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:46 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:46 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:46 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:46 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:47 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:47 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:47 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:47 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:49 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:49 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:50 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:50 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:52 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:53 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:56 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:56 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:57 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:57 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:57 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:57 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:58 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:14:58 Europe/Moscow] PHP Fatal error:  Call to undefined function artir() in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 23
+[29-Jan-2018 14:15:07 Europe/Istanbul] PHP Warning:  explode(): Empty delimiter in /home/u7451818/ticaretplus/sistem/fonksiyon.php on line 1048
+[29-Jan-2018 14:15:08 Europe/Istanbul] PHP Warning:  explode(): Empty delimiter in /home/u7451818/ticaretplus/sistem/fonksiyon.php on line 1048
+[29-Jan-2018 14:15:09 Europe/Istanbul] PHP Warning:  explode(): Empty delimiter in /home/u7451818/ticaretplus/sistem/fonksiyon.php on line 1048
+[29-Jan-2018 14:15:32 Europe/Istanbul] PHP Warning:  explode(): Empty delimiter in /home/u7451818/ticaretplus/sistem/fonksiyon.php on line 1048
+[29-Jan-2018 14:21:01 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:02 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:03 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:03 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:04 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:04 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:13 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:14 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:14 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:14 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:18 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:18 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:19 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:19 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:19 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:19 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26
+[29-Jan-2018 14:21:19 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/u7451818/ticaretplus/fonksiyon/kod/fatura_satis.php on line 26

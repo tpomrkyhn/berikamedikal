@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05b515af-7509-4546-80f8-639ce3383de0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.7875">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
+          <file leaf-file-name="ayar.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/sistem/ayar.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="42">
+                  <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="26" />
+                  <folding>
+                    <marker date="1533584155915" expanded="true" signature="1007:1028" ph="SELECT * FRO... ayarlar" />
+                    <marker date="1533584155915" expanded="true" signature="1134:1155" ph="SELECT * FRO... ayarlar" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="lyd_urundokum.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/icerik/lyd_urundokum.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1818">
+                  <caret line="268" column="24" lean-forward="true" selection-start-line="268" selection-start-column="24" selection-end-line="268" selection-end-column="24" />
+                  <folding>
+                    <marker date="1533586096759" expanded="true" signature="209:260" ph="SELECT * FRO... urunagaclari" />
+                    <marker date="1533586096759" expanded="true" signature="816:867" ph="SELECT * FRO... urunagaclari" />
+                    <marker date="1533586096759" expanded="true" signature="1865:1911" ph="SELECT * FRO... parcalar" />
+                    <marker date="1533586096759" expanded="true" signature="2678:2727" ph="SELECT * FRO... dokumanlar" />
+                    <marker date="1533586096759" expanded="true" signature="2810:2921" ph="INSERT INTO dokumanlar... " />
+                    <marker date="1533586096759" expanded="true" signature="3549:3600" ph="SELECT * FRO... urunler" />
+                    <marker date="1533586096759" expanded="true" signature="5020:5066" ph="SELECT * FRO... parcalar" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ayar.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ayar.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="112">
+                  <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+                  <folding>
+                    <marker date="1533584649233" expanded="true" signature="1009:1030" ph="SELECT * FRO... ayarlar" />
+                    <marker date="1533584649233" expanded="true" signature="1136:1157" ph="SELECT * FRO... ayarlar" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="tr.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/diller/tr.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="222">
+                  <caret line="223" column="22" lean-forward="false" selection-start-line="223" selection-start-column="5" selection-end-line="223" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>kaydet</find>
+      <find>erisimhatas</find>
+      <find>urunadi</find>
+      <find>durum</find>
+      <find>james alexan</find>
+      <find>button</find>
+      <find>localhost</find>
+      <find>p(</find>
+      <find>satinal</find>
+      <find>uye</find>
+      <find>fiyat</find>
+      <find>round</find>
+      <find>$db</find>
+      <find>PageNo</find>
+      <find>footer</find>
+      <find>sayiyiYaziyaCevir</find>
+      <find>haneli</find>
+      <find>satinalma</find>
+      <find>tip</find>
+      <find>HOME</find>
+      <find>2018</find>
+      <find>backg</find>
+      <find>our</find>
+      <find>world</find>
+      <find>favi</find>
+      <find>$vb</find>
+      <find>err</find>
+      <find>error_rep</find>
+      <find>ob</find>
+      <find>ob_st</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>giden</replace>
+      <replace>g(</replace>
+      <replace>$musterii[</replace>
+      <replace>$vb</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/icerik/lyd_tedarikci.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/parcaguncelle.php" />
+        <option value="$USER_HOME$/Desktop/Yeni klasör (2)/othing.cc/public/components_popups.html" />
+        <option value="$PROJECT_DIR$/icerik/bolge/urunagaci2.php" />
+        <option value="$PROJECT_DIR$/icerik/bolge/urunagaci4.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/siparisekle.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/siparisguncelle.php" />
+        <option value="$PROJECT_DIR$/icerik/lyd_hareket.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/hareketekle.php" />
+        <option value="$PROJECT_DIR$/icerik/bolge/satir.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/satirekle.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/hareketara.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/siparisara.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/bildirim_oku.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/bildirim_okunmamis_adet.php" />
+        <option value="$PROJECT_DIR$/icerik/lyd_siparisara.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/parca.php" />
+        <option value="$PROJECT_DIR$/icerik/ustcagir.php" />
+        <option value="$PROJECT_DIR$/assets/js/plugins/tables/datatables/datatablestr.min.js" />
+        <option value="$PROJECT_DIR$/assets/js/plugins/tables/datatables/datatables.min.js" />
+        <option value="$PROJECT_DIR$/icerik/lyd_hareketliste.php" />
+        <option value="$PROJECT_DIR$/icerik/lyd_parcaara2.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/parcaara2.php" />
+        <option value="$PROJECT_DIR$/icerik/ustprofil.php" />
+        <option value="$PROJECT_DIR$/cikis.php" />
+        <option value="$PROJECT_DIR$/icerik/menu.php" />
+        <option value="$PROJECT_DIR$/icerik/lyd_erisimhatasi.php" />
+        <option value="$PROJECT_DIR$/icerik/ads" />
+        <option value="$PROJECT_DIR$/icerik/ads.php" />
+        <option value="$PROJECT_DIR$/icerik/lyd_siparis.php" />
+        <option value="$PROJECT_DIR$/icerik/ustbar.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/bildirim_okunmamis.php" />
+        <option value="$PROJECT_DIR$/lyd_urun.php" />
+        <option value="$PROJECT_DIR$/urunagaci2.php" />
+        <option value="$PROJECT_DIR$/../htdocs2/sistem/ayar.php" />
+        <option value="$PROJECT_DIR$/sistem/fonksiyon.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/oturumkontrol.php" />
+        <option value="$PROJECT_DIR$/icerik/lyd_parcagoruntule.php" />
+        <option value="$PROJECT_DIR$/icerik/lyd_urun.php" />
+        <option value="$PROJECT_DIR$/fonksiyon.php" />
+        <option value="$PROJECT_DIR$/icerik/lyd_parca.php" />
+        <option value="$PROJECT_DIR$/icerik/ana.php" />
+        <option value="$PROJECT_DIR$/icerik/alt.php" />
+        <option value="$USER_HOME$/Desktop/html/index.html" />
+        <option value="$PROJECT_DIR$/diller/tr.php" />
+        <option value="$PROJECT_DIR$/icerik/lyd_parcaara.php" />
+        <option value="$PROJECT_DIR$/fonksiyon/parcaara.php" />
+        <option value="$PROJECT_DIR$/sistem/ayar.php" />
+        <option value="$PROJECT_DIR$/ayar.php" />
+        <option value="$PROJECT_DIR$/icerik/lyd_urundokum.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-33" />
+    <option name="width" value="1888" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpSuperClassIncompatibleWithInterfaceInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+              <item name="fonksiyon" type="cbb8eebc:String" user="fonksiyon" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+              <item name="icerik" type="cbb8eebc:String" user="icerik" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+              <item name="icerik" type="cbb8eebc:String" user="icerik" />
+              <item name="bolge" type="cbb8eebc:String" user="bolge" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+              <item name="sistem" type="cbb8eebc:String" user="sistem" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dosyalar" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dosyalar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dokumanlar" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fonksiyon" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="icerik" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sistem" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../htdocs2/sistem/ayar.php" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\localhost\htdocs" />
+      <recent name="D:\localhost\htdocs\fonksiyon" />
+      <recent name="D:\localhost\htdocs\icerik" />
+      <recent name="D:\localhost\htdocs\icerik\bolge" />
+      <recent name="$PROJECT_DIR$/icerik" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\localhost\htdocs\icerik\FPDF\font" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05b515af-7509-4546-80f8-639ce3383de0" name="Default" comment="" />
+      <created>1527407857547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527407857547</updated>
+      <workItem from="1527407860575" duration="8459000" />
+      <workItem from="1528284688473" duration="18768000" />
+      <workItem from="1528539799643" duration="56060000" />
+      <workItem from="1529154398007" duration="5615000" />
+      <workItem from="1529268050993" duration="3714000" />
+      <workItem from="1530195639390" duration="31003000" />
+      <workItem from="1530430794706" duration="6161000" />
+      <workItem from="1530559581595" duration="11340000" />
+      <workItem from="1530824950063" duration="5572000" />
+      <workItem from="1531076664117" duration="5935000" />
+      <workItem from="1531166324735" duration="2055000" />
+      <workItem from="1531168667859" duration="10753000" />
+      <workItem from="1531254150243" duration="44738000" />
+      <workItem from="1531588766023" duration="19729000" />
+      <workItem from="1532118430687" duration="7316000" />
+      <workItem from="1532177149643" duration="12996000" />
+      <workItem from="1532631448217" duration="1332000" />
+      <workItem from="1533052392986" duration="29858000" />
+      <workItem from="1533486502311" duration="12016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="293420000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fonksiyon/parca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="57" column="52" lean-forward="false" selection-start-line="57" selection-start-column="52" selection-end-line="57" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_hareketliste.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="135" column="109" lean-forward="false" selection-start-line="135" selection-start-column="109" selection-end-line="135" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonksiyon/parcaara2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="31" column="97" lean-forward="false" selection-start-line="31" selection-start-column="97" selection-end-line="31" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_cikisyap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_parcaara2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oturumsil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/ustprofil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cikis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="28" column="100" lean-forward="false" selection-start-line="28" selection-start-column="100" selection-end-line="28" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/ust.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="96" lean-forward="false" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_erisimhatasi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/ads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Yeni klasör (2)/othing.cc/public/datatable_advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3248">
+          <caret line="232" column="32" lean-forward="false" selection-start-line="232" selection-start-column="32" selection-end-line="235" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_siparis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="52" column="48" lean-forward="false" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+          <folding>
+            <marker date="1533052171250" expanded="true" signature="19117:19954" ph="{&quot;url&quot;: 'icerik/bolge/satir.php'...}" />
+            <marker date="1533052171250" expanded="true" signature="19117:19983" ph="{...}" />
+            <marker date="1533052171250" expanded="true" signature="19117:22366" ph="..." />
+            <marker date="1533052171250" expanded="true" signature="19117:22390" ph="..." />
+            <marker date="1533052171250" expanded="true" signature="19117:22410" ph="..." />
+            <marker date="1533052171250" expanded="true" signature="19117:22460" ph="..." />
+            <marker date="1533052171250" expanded="true" signature="19117:22503" ph="..." />
+            <marker date="1533052171250" expanded="true" signature="19117:22538" ph="..." />
+            <marker date="1533052171250" expanded="true" signature="19226:19924" ph="{...}" />
+            <marker date="1533052171250" expanded="true" signature="19445:19890" ph="{...}" />
+            <marker date="1533052171250" expanded="true" signature="19500:19849" ph="{&quot;title&quot;: '&lt;?= $d[&quot;guncelleme&quot;] ?&gt;'...}" />
+            <marker date="1533052171250" expanded="true" signature="19557:19575" ph="..." />
+            <marker date="1533052171250" expanded="true" signature="19634:19662" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonksiyon/bildirim_okunmamis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="134" column="116" lean-forward="false" selection-start-line="134" selection-start-column="116" selection-end-line="134" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lyd_urun.php" />
+    <entry file="file://$PROJECT_DIR$/urunagaci2.php" />
+    <entry file="file://$PROJECT_DIR$/../htdocs2/sistem/ayar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonksiyon/satirekle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1533052160419" expanded="true" signature="196:265" ph="SELECT * FRO... satirlar" />
+            <marker date="1533052160419" expanded="true" signature="372:601" ph="UPDATE satir... " />
+            <marker date="1533052160419" expanded="true" signature="783:1087" ph="INSERT INTO satirlar... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonksiyon/urun_doldurma.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1533052159068" expanded="true" signature="315:367" ph="SELECT * FRO... urunadlari" />
+            <marker date="1533052159068" expanded="true" signature="567:631" ph="SELECT * FRO... urunanahtarkelime" />
+            <marker date="1533052159068" expanded="true" signature="836:893" ph="SELECT * FRO... urunekbilgileri" />
+            <marker date="1533052159068" expanded="true" signature="1093:1147" ph="SELECT * FRO... urunkodlari" />
+            <marker date="1533052159068" expanded="true" signature="1447:1494" ph="SELECT * FRO... urunler" />
+            <marker date="1533052159068" expanded="true" signature="1574:1659" ph="SELECT * FRO... urunadlari" />
+            <marker date="1533052159068" expanded="true" signature="1732:1803" ph="SELECT * FRO... urunkodlari" />
+            <marker date="1533052159068" expanded="true" signature="1880:1937" ph="SELECT * FRO... urungorselleri" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonksiyon/mailsilme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1533052163947" expanded="true" signature="102:230" ph="SELECT * FRO... siller" />
+            <marker date="1533052163947" expanded="true" signature="285:391" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonksiyon/faturatoplam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/bolge/urunagaci2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/ustcagir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/ustbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonksiyon/oturumkontrol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1533052163117" expanded="true" signature="170:289" ph="SELECT * FRO... oturumlar" />
+            <marker date="1533052163117" expanded="true" signature="341:433" ph="UPDATE oturu... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_parcagoruntule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <marker date="1533068123076" expanded="true" signature="376:398" ph="SELECT * FRO... parcalar" />
+            <marker date="1533068123076" expanded="true" signature="1240:1262" ph="SELECT * FRO... parcalar" />
+            <marker date="1533068123076" expanded="true" signature="1369:1415" ph="SELECT * FRO... parcagruplari" />
+            <marker date="1533068123076" expanded="true" signature="1369:1440" ph="SELECT * FRO... parcagruplari" />
+            <marker date="1533068123076" expanded="true" signature="1662:2266" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonksiyon.php" />
+    <entry file="file://$PROJECT_DIR$/icerik/FPDF/font/helveticab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/FPDF/font/helveticai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/FPDF/font/helveticabi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/FPDF/font/RobotoCondensed.php" />
+    <entry file="file://$PROJECT_DIR$/icerik/FPDF/font/RobotoCondensedBold.php" />
+    <entry file="file://$PROJECT_DIR$/icerik/FPDF/font/RobotoCondensed-Regular_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_aa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1533052174656" expanded="true" signature="504:549" ph="SELECT * FRO... parcalar" />
+            <marker date="1533052174656" expanded="true" signature="1401:1472" ph="SELECT * FRO... birimler" />
+            <marker date="1533052174656" expanded="true" signature="1540:1612" ph="SELECT * FRO... birimler" />
+            <marker date="1533052174656" expanded="true" signature="2887:2969" ph="SELECT * FRO... hareketler" />
+            <marker date="1533052174656" expanded="true" signature="3401:3482" ph="SELECT * FRO... sirketler" />
+            <marker date="1533052174656" expanded="true" signature="3778:3857" ph="SELECT * FRO... sirketler" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/anasayfa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/ana.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/giris.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="147" column="50" lean-forward="false" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="50" />
+          <folding>
+            <marker date="1533052174764" expanded="true" signature="372:447" ph="SELECT * FRO... oturumlar" />
+            <marker date="1533052174764" expanded="true" signature="597:660" ph="SELECT * FRO... uyeler" />
+            <marker date="1533052174764" expanded="true" signature="1131:1201" ph="SELECT * FRO... uyeler" />
+            <marker date="1533052174764" expanded="true" signature="1437:1558" ph="SELECT * FRO... oturumlar" />
+            <marker date="1533052174764" expanded="true" signature="1660:1754" ph="DELETE FROM " />
+            <marker date="1533052174764" expanded="true" signature="1826:1946" ph="SELECT * FRO... oturumlar" />
+            <marker date="1533052174764" expanded="true" signature="2048:2140" ph="UPDATE oturu... " />
+            <marker date="1533052174764" expanded="true" signature="2223:2333" ph="INSERT INTO oturumlar... " />
+            <marker date="1533052174764" expanded="true" signature="2985:3060" ph="SELECT * FRO... oturumlar" />
+            <marker date="1533052174764" expanded="true" signature="3161:3274" ph="UPDATE oturu... " />
+            <marker date="1533052174764" expanded="true" signature="3356:3466" ph="INSERT INTO oturumlar... " />
+            <marker date="1533052174764" expanded="true" signature="4038:4123" ph="SELECT * FRO... uyeler" />
+            <marker date="1533052174764" expanded="true" signature="4257:4378" ph="SELECT * FRO... oturumlar" />
+            <marker date="1533052174764" expanded="true" signature="4480:4574" ph="DELETE FROM " />
+            <marker date="1533052174764" expanded="true" signature="4646:4766" ph="SELECT * FRO... oturumlar" />
+            <marker date="1533052174764" expanded="true" signature="4868:4960" ph="UPDATE oturu... " />
+            <marker date="1533052174764" expanded="true" signature="5043:5153" ph="INSERT INTO oturumlar... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_urun.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="144" column="50" lean-forward="false" selection-start-line="144" selection-start-column="50" selection-end-line="144" selection-end-column="50" />
+          <folding>
+            <marker date="1533069590753" expanded="true" signature="123:168" ph="SELECT * FRO... urunler" />
+            <marker date="1533069590753" expanded="true" signature="7190:7233" ph="SELECT * FRO... urunler" />
+            <marker date="1533069590753" expanded="true" signature="8359:8404" ph="SELECT * FRO... parcalar" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_parca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="36" column="32" lean-forward="false" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <marker date="1533194625504" expanded="true" signature="126:174" ph="SELECT * FRO... parcalar" />
+            <marker date="1533194625504" expanded="true" signature="2517:2566" ph="SELECT * FRO... parcagruplari" />
+            <marker date="1533194625504" expanded="true" signature="5760:5805" ph="SELECT * FRO... birimler" />
+            <marker date="1533194625504" expanded="true" signature="6680:6725" ph="SELECT * FRO... birimler" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/alt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="148" column="45" lean-forward="true" selection-start-line="148" selection-start-column="45" selection-end-line="148" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#3;n#tr#0;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#3;n#tr#1;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#td#3;n#tr#2;n#table#0;n#div#0;n#div#0;n#section#1;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistem/fonksiyon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="971" column="19" lean-forward="false" selection-start-line="971" selection-start-column="19" selection-end-line="971" selection-end-column="19" />
+          <folding>
+            <element signature="e#6#116#0#PHP" expanded="true" />
+            <marker date="1533054982429" expanded="true" signature="5823:5844" ph="SELECT * FRO... ayarlar" />
+            <marker date="1533054982429" expanded="true" signature="12011:12071" ph="SELECT * FRO... urunhareketleri" />
+            <marker date="1533054982429" expanded="true" signature="12340:12400" ph="SELECT * FRO... urunhareketleri" />
+            <marker date="1533054982429" expanded="true" signature="12925:13015" ph="SELECT * FRO... belgeaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="13071:13168" ph="SELECT * FRO... belgeaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="13693:13722" ph="SELECT * FRO... ayarlar" />
+            <marker date="1533054982429" expanded="true" signature="13831:13860" ph="SELECT * FRO... ayarlar" />
+            <marker date="1533054982429" expanded="true" signature="14027:14096" ph="SELECT * FRO... sirketler" />
+            <marker date="1533054982429" expanded="true" signature="14207:14276" ph="SELECT * FRO... sirketler" />
+            <marker date="1533054982429" expanded="true" signature="14398:14496" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="14536:14633" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="14671:14766" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="14894:14997" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="15043:15145" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="15189:15289" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="15424:15527" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="15625:15725" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="15824:15926" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="16036:16139" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="16267:16383" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="16635:16759" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="16941:17046" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="17199:17257" ph="SELECT * FRO... sirketler" />
+            <marker date="1533054982429" expanded="true" signature="17369:17427" ph="SELECT * FRO... sirketler" />
+            <marker date="1533054982429" expanded="true" signature="17541:17599" ph="SELECT * FRO... sirketler" />
+            <marker date="1533054982429" expanded="true" signature="17720:17778" ph="SELECT * FRO... sirketler" />
+            <marker date="1533054982429" expanded="true" signature="17896:17954" ph="SELECT * FRO... sirketler" />
+            <marker date="1533054982429" expanded="true" signature="18075:18133" ph="SELECT * FRO... sirketler" />
+            <marker date="1533054982429" expanded="true" signature="18267:18377" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="18477:18582" ph="SELECT * FRO... sirketaciklamalari" />
+            <marker date="1533054982429" expanded="true" signature="18689:18732" ph="SELECT * FRO... menuler" />
+            <marker date="1533054982429" expanded="true" signature="18789:18836" ph="SELECT * FRO... menuler" />
+            <marker date="1533054982429" expanded="true" signature="19598:19645" ph="SELECT * FRO... dovizler" />
+            <marker date="1533054982429" expanded="true" signature="19785:19840" ph="SELECT * FRO... urunfiyatlari" />
+            <marker date="1533054982429" expanded="true" signature="20384:20460" ph="SELECT * FRO... urunhareketleri" />
+            <marker date="1533054982429" expanded="true" signature="20590:20666" ph="SELECT * FRO... urunhareketleri" />
+            <marker date="1533054982429" expanded="true" signature="23120:23165" ph="SELECT * FRO... belgeler" />
+            <marker date="1533054982429" expanded="true" signature="23690:23769" ph="SELECT * FRO... urunhareketleri" />
+            <marker date="1533054982429" expanded="true" signature="24381:24460" ph="SELECT * FRO... urunhareketleri" />
+            <marker date="1533054982429" expanded="true" signature="24850:24898" ph="SELECT * FRO... kargolar" />
+            <marker date="1533054982429" expanded="true" signature="25419:25460" ph="SELECT * FRO... uyeler" />
+            <marker date="1533054982429" expanded="true" signature="26231:26310" ph="SELECT * FRO... urungrupadlari" />
+            <marker date="1533054982429" expanded="true" signature="26444:26518" ph="SELECT * FRO... belgeler" />
+            <marker date="1533054982429" expanded="true" signature="26608:26714" ph="SELECT * FRO... okular" />
+            <marker date="1533054982429" expanded="true" signature="26783:26879" ph="INSERT INTO okular... " />
+            <marker date="1533054982429" expanded="true" signature="31227:31290" ph="SELECT * FRO... mailler" />
+            <marker date="1533054982429" expanded="true" signature="31364:31481" ph="SELECT * FRO... siller" />
+            <marker date="1533054982429" expanded="true" signature="31568:31685" ph="SELECT * FRO... okular" />
+            <marker date="1533054982429" expanded="true" signature="31866:31929" ph="SELECT * FRO... mailler" />
+            <marker date="1533054982429" expanded="true" signature="31984:32101" ph="SELECT * FRO... siller" />
+            <marker date="1533054982429" expanded="true" signature="32233:32300" ph="SELECT * FRO... mailler" />
+            <marker date="1533054982429" expanded="true" signature="32355:32472" ph="SELECT * FRO... siller" />
+            <marker date="1533054982429" expanded="true" signature="32605:32674" ph="SELECT * FRO... yildizlar" />
+            <marker date="1533054982429" expanded="true" signature="32729:32845" ph="SELECT * FRO... siller" />
+            <marker date="1533054982429" expanded="true" signature="32975:33058" ph="SELECT * FRO... siller" />
+            <marker date="1533054982429" expanded="true" signature="33169:33246" ph="SELECT * FRO... olaylar" />
+            <marker date="1533054982429" expanded="true" signature="33429:33536" ph="SELECT * FRO... olaylar" />
+            <marker date="1533054982429" expanded="true" signature="34461:34538" ph="SELECT * FRO... olaylar" />
+            <marker date="1533054982429" expanded="true" signature="34738:34760" ph="SELECT * FRO... parcalar" />
+            <marker date="1533054982429" expanded="true" signature="34824:34896" ph="SELECT * FRO... hareketler" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/Firna-oruntule-Ekle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diller/tr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="223" column="22" lean-forward="false" selection-start-line="223" selection-start-column="5" selection-end-line="223" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_parcaara.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonksiyon/parcaara.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding>
+            <marker date="1533492012605" expanded="true" signature="583:661" ph="SELECT * FRO... parcalar" />
+            <marker date="1533492012605" expanded="true" signature="954:1036" ph="SELECT * FRO... parcalar" />
+            <marker date="1533492012605" expanded="true" signature="1362:1473" ph="SELECT * FRO... parcalar" />
+            <marker date="1533492012605" expanded="true" signature="2053:2135" ph="SELECT * FRO... parcalar" />
+            <marker date="1533492012605" expanded="true" signature="2758:2808" ph="SELECT * FRO... parcalar" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sistem/ayar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <marker date="1533584155915" expanded="true" signature="1007:1028" ph="SELECT * FRO... ayarlar" />
+            <marker date="1533584155915" expanded="true" signature="1134:1155" ph="SELECT * FRO... ayarlar" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ayar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <marker date="1533584649233" expanded="true" signature="1009:1030" ph="SELECT * FRO... ayarlar" />
+            <marker date="1533584649233" expanded="true" signature="1136:1157" ph="SELECT * FRO... ayarlar" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icerik/lyd_urundokum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1818">
+          <caret line="268" column="24" lean-forward="true" selection-start-line="268" selection-start-column="24" selection-end-line="268" selection-end-column="24" />
+          <folding>
+            <marker date="1533586096759" expanded="true" signature="209:260" ph="SELECT * FRO... urunagaclari" />
+            <marker date="1533586096759" expanded="true" signature="816:867" ph="SELECT * FRO... urunagaclari" />
+            <marker date="1533586096759" expanded="true" signature="1865:1911" ph="SELECT * FRO... parcalar" />
+            <marker date="1533586096759" expanded="true" signature="2678:2727" ph="SELECT * FRO... dokumanlar" />
+            <marker date="1533586096759" expanded="true" signature="2810:2921" ph="INSERT INTO dokumanlar... " />
+            <marker date="1533586096759" expanded="true" signature="3549:3600" ph="SELECT * FRO... urunler" />
+            <marker date="1533586096759" expanded="true" signature="5020:5066" ph="SELECT * FRO... parcalar" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
